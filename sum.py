@@ -1,7 +1,7 @@
 import sys
 
 A = 5
-B = 5
+B = 4
 iRet = ""
 
 class sum:
