@@ -1,1 +1,1 @@
-print("Gerrit Developer: Upload a change demo.")
+print("Hello SLS!")
