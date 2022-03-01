@@ -31,6 +31,4 @@ target_folder = ctx.web.lists.get_by_title(list_title).root_folder.folders.get_b
 name = os.path.basename(path)
 target_file = target_folder.upload_file(name, file_content).execute_query()
 print(" ")
-print(target_file.status)
-print(" ")
 print("File has been uploaded to url: {0}".format(target_file.serverRelativeUrl))
