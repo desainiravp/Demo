@@ -1,5 +1,9 @@
 hello!!
 
+<<<<<<< HEAD
 Its is testing.
 
 Running test env and verify
+=======
+Its is testing.
+>>>>>>> 82adf96 (Test:Test commit of Github push.)
