@@ -2,4 +2,8 @@ Testing for Jenkins server 123.
 testing part2.
 
 
+<<<<<<< HEAD
 Testing on tuleap by Vivek Trivedi
+=======
+Testing on tuleap by Vivek Trivedi and Nirav Desai
+>>>>>>> 8be5d0c90bc880bb5165746deafa06540cdcaee6

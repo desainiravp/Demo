@@ -2,4 +2,8 @@ hello!!
 
 Its is testing.
 
+<<<<<<< HEAD
 Running test environment
+=======
+Running test env
+>>>>>>> 8be5d0c90bc880bb5165746deafa06540cdcaee6
