@@ -7,6 +7,7 @@ Keep on learning
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Testing on tuleap by Vivek Trivedi
 >>>>>>> e949448 (Testing:)
 =======
@@ -17,3 +18,6 @@ Testing on tuleap by Vivek Trivedi and Nirav Desai
 Testing on tuleap by Vivek Trivedi and Nirav Desai !!!
 >>>>>>> 8be5d0c90bc880bb5165746deafa06540cdcaee6
 >>>>>>> 751d7e3 (Updates)
+=======
+Testing on tuleap by Vivek Trivedi and Nirav Desai
+>>>>>>> a945b2d (Test:Test commit of Github push.)
