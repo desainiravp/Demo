@@ -4,6 +4,7 @@ Its is testing.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Running test environment and verify
 =======
 Running test env and verify code!!!
@@ -11,3 +12,6 @@ Running test env and verify code!!!
 =======
 Running test environment
 >>>>>>> e949448 (Testing:)
+=======
+Running test env
+>>>>>>> 8be5d0c (testing)

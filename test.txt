@@ -6,5 +6,9 @@ Keep on learning
 =======
 
 
+<<<<<<< HEAD
 Testing on tuleap by Vivek Trivedi
 >>>>>>> e949448 (Testing:)
+=======
+Testing on tuleap by Vivek Trivedi and Nirav Desai
+>>>>>>> 8be5d0c (testing)
