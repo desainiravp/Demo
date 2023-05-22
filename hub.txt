@@ -3,7 +3,11 @@ hello!!
 Its is testing.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Running test environment and verify
 =======
 Running test env and verify code!!!
 >>>>>>> fast
+=======
+Running test environment
+>>>>>>> e949448 (Testing:)
