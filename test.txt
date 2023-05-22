@@ -5,7 +5,9 @@ Testing on tuleap by Vivek Trivedi and Nirav Desai!!!!!
 Keep on learning
 =======
 
+<<<<<<< HEAD
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Testing on tuleap by Vivek Trivedi
@@ -21,3 +23,13 @@ Testing on tuleap by Vivek Trivedi and Nirav Desai !!!
 =======
 Testing on tuleap by Vivek Trivedi and Nirav Desai
 >>>>>>> a945b2d (Test:Test commit of Github push.)
+=======
+Testing on tuleap by Vivek Trivedi
+=======
+Testing on tuleap by Vivek Trivedi and Nirav Desai !!!
+>>>>>>> 8be5d0c90bc880bb5165746deafa06540cdcaee6
+=======
+Verify environment
+Testing on tuleap by Vivek Trivedi and Nirav Desai!!!!!
+>>>>>>> eef4b4971b64478eec3e3e845e696016eaded2ba
+>>>>>>> d8dfa1337356e68b5fa51fb73eaee7f27a8ebe27
