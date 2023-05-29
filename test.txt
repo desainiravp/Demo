@@ -10,6 +10,10 @@ HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 11d9d015b0c5536f63fd44c0ef8c8725bbace55a
+<<<<<<< HEAD
 Testing on tuleap by Vivek Trivedi
 >>>>>>> e949448 (Testing:)
 =======
