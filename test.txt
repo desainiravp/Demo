@@ -3,7 +3,7 @@ testing part2.
 <<<<<<< HEAD
 Testing on tuleap by Vivek Trivedi and Nirav Desai!!!!!
 Keep on learning
-
+Error resolution
 
 HEAD
 
