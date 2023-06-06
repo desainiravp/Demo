@@ -1,9 +1,55 @@
 hello!!
 
+<<<<<<< HEAD
 Its is testing.
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 Running test environment and verify
 =======
 Running test env and verify code!!!
 >>>>>>> fast
+=======
+Running test environment
+>>>>>>> e949448 (Testing:)
+=======
+<<<<<<< HEAD
+Running test env
+>>>>>>> 8be5d0c (testing)
+=======
+Running test environment!!!
+>>>>>>> 5159a0d (on newb3)
+=======
+Running test environment!!!!
+>>>>>>> b091a41 (on mybranch)
+=======
+Running test environment!!!
+>>>>>>> 8be5d0c90bc880bb5165746deafa06540cdcaee6
+>>>>>>> 53f2094 (Updates)
+=======
+Running test env and verify
+<<<<<<< HEAD
+>>>>>>> a945b2d (Test:Test commit of Github push.)
+=======
+=======
+Its is testing.
+>>>>>>> 82adf96 (Test:Test commit of Github push.)
+>>>>>>> b725dc4 (added)
+=======
+Running test environment!!!!
+Running test environment!!!
+Running test env
+
+>>>>>>> d8dfa13 (Final on mybranch)
+=======
+Running test environment!!!!
+Running test environment!!!
+Running test env
+
+>>>>>>> d8dfa1337356e68b5fa51fb73eaee7f27a8ebe27
