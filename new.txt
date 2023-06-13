@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file by bharat ,editted by Rani Nirav
+=======
+new file by bharat ,editted by Rani
+>>>>>>> d4488c9360d58ab159f56abfb08606146cabf8b5
