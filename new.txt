@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 new file by bharat ,editted by Rani Nirav!!!
+=======
+new file by bharat ,editted by Rani Nirav
+>>>>>>> c3c1bc5 (Update new.txt)
 
 new file by bharat ,editted by Rani
 
