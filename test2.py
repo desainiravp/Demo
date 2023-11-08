@@ -1,1 +1,0 @@
-print("Demo for new patchset on a same change.")
