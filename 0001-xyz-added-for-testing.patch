@@ -1,0 +1,20 @@
+From af0c2cc5f1e0c3784b9a2a673d622cc4fc436509 Mon Sep 17 00:00:00 2001
+From: "nirav.desai.843" <nirav.p.desai@slscorp.com>
+Date: Mon, 20 Nov 2023 14:32:13 +0530
+Subject: [PATCH] xyz added for testing
+
+---
+ xyz.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 xyz.txt
+
+diff --git a/xyz.txt b/xyz.txt
+new file mode 100644
+index 0000000..f8ca1c4
+--- /dev/null
++++ b/xyz.txt
+@@ -0,0 +1 @@
++stash testing diff
+-- 
+2.40.1.windows.1
+
