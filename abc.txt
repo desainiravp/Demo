@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Testing Git/Version 
 =======
 hELLO
 >>>>>>> 6b8d56a (adc on branch2)
+=======
+patch
+>>>>>>> 2169f3a (patch testing)
