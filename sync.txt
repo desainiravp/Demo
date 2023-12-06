@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test sync
+=======
+Hello format patch for merge
+>>>>>>> main
