@@ -2,6 +2,7 @@
 
 import openpyxl
 from openpyxl.styles import Font
+import os
 
 def generate_excel_file(file_path):
     # Create a new Excel workbook
@@ -34,8 +35,11 @@ def generate_excel_file(file_path):
     workbook.save(file_path)
 
 if __name__ == "__main__":
-    # Specify the file path for the generated Excel file
-    output_file_path = "generated_file.xlsx"
+    # Get the Jenkins workspace path using the WORKSPACE environment variable
+    jenkins_workspace = os.environ.get("WORKSPACE", "")
+
+    # Specify the file path for the generated Excel file within the Jenkins workspace
+    output_file_path = os.path.join(jenkins_workspace, "generated_file.xlsx")
 
     # Generate the Excel file
     generate_excel_file(output_file_path)
