@@ -1,10 +1,8 @@
 # script.py
 
 import openpyxl
-from openpyxl.styles import Font
 import os
-import matplotlib
-matplotlib.use('Agg')  # Set the backend to Agg
+
 def generate_excel_file(file_path):
     # Create a new Excel workbook
     workbook = openpyxl.Workbook()
@@ -30,7 +28,7 @@ def generate_excel_file(file_path):
 
     # Apply bold font to header row
     for cell in sheet['1:1']:
-        cell.font = Font(bold=True)
+        cell.font = openpyxl.styles.Font(bold=True)
 
     # Save the workbook to the specified file path
     workbook.save(file_path)
