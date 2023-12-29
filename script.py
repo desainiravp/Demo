@@ -1,5 +1,8 @@
 # script.py
 
+import matplotlib
+matplotlib.use('Agg')  # Set the Matplotlib backend to Agg (non-interactive)
+
 import openpyxl
 import os
 
@@ -41,3 +44,5 @@ if __name__ == "__main__":
     generate_excel_file(output_file_path)
 
     print(f"Excel file generated: {output_file_path}")
+
+ 
