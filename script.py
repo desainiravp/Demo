@@ -34,11 +34,8 @@ def generate_excel_file(file_path):
     workbook.save(file_path)
 
 if __name__ == "__main__":
-    # Get the Jenkins workspace path using the WORKSPACE environment variable
-    jenkins_workspace = os.environ.get("WORKSPACE", "")
-
-    # Specify the file path for the generated Excel file within the Jenkins workspace
-    output_file_path = os.path.join(jenkins_workspace, "generated_file.xlsx")
+    # Specify the file path for the generated Excel file
+    output_file_path = "/home/jenkins/devops_dev/workspace/gitrepo/generated_file.xlsx"
 
     # Generate the Excel file
     generate_excel_file(output_file_path)
