@@ -1,8 +1,5 @@
 # script.py
 
-import matplotlib
-matplotlib.use('Agg')  # Set the Matplotlib backend to Agg (non-interactive)
-
 import openpyxl
 import os
 
@@ -37,6 +34,13 @@ def generate_excel_file(file_path):
     workbook.save(file_path)
 
 if __name__ == "__main__":
+    # Import matplotlib conditionally
+    try:
+        import matplotlib
+        matplotlib.use('Agg')  # Set the Matplotlib backend to Agg (non-interactive)
+    except ImportError:
+        pass
+
     # Specify the file path for the generated Excel file
     output_file_path = "/home/jenkins/devops_dev/workspace/gitrepo/generated_file.xlsx"
 
@@ -44,5 +48,3 @@ if __name__ == "__main__":
     generate_excel_file(output_file_path)
 
     print(f"Excel file generated: {output_file_path}")
-
- 
