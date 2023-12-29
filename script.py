@@ -2,9 +2,9 @@
 
 import openpyxl
 from openpyxl.styles import Font
-from openpyxl.worksheet.table import Table
 import os
-
+import matplotlib
+matplotlib.use('Agg')  # Set the backend to Agg
 def generate_excel_file(file_path):
     # Create a new Excel workbook
     workbook = openpyxl.Workbook()
