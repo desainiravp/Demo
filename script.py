@@ -2,6 +2,7 @@
 
 import openpyxl
 from openpyxl.styles import Font
+from openpyxl.worksheet.table import Table
 import os
 
 def generate_excel_file(file_path):
