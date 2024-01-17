@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 Testing environment
-=======
+
 hello!!
 Its is testing.
 Running test env and verify code!!!
 Adding more code to review trying to generate some error
->>>>>>> fast
+
